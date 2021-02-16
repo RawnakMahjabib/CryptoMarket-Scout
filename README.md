@@ -1,0 +1,1 @@
+# CryptoMarket-Scout
