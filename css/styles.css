@@ -1,0 +1,164 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  font-size: 2.60rem;
+  margin: 20px auto 0 auto;
+  font-family: 'Montserrat', sans-serif;
+  color: #394867;
+  font-weight: bolder;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.25rem;
+  color: #394867;
+  font-weight: normal;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #14274e;
+}
+p {
+  line-height: 2;
+}
+
+a {
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  margin: 5px 20px;
+  text-decoration: none;
+
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.breaks {
+  border: dotted #FFFFFF 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+
+.subtitle {
+  font-weight: bolder;
+}
+
+.top-container {
+  background-color: #dddddd;
+  padding-top: 80px;
+  padding-bottom: 30px;
+
+
+}
+
+.middle-container {
+background-color: #d6e0f0;
+padding-top: 50px;
+padding-bottom: 35px;
+
+}
+
+.bottom-container {
+background-color: #d6e0f0;
+margin: 0;
+padding: 20px 0 10px;
+
+}
+
+.stats{
+  padding-top: 20px;
+
+}
+
+.stats-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+.defi {
+  width: 60%;
+  margin: auto;
+
+}
+
+.all-coins {
+  width:80%
+}
+.cryptowallet-img {
+  width: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.graph-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.resources {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.BUTTON_OWB {
+   background: #258BD9;
+   background-image: -webkit-linear-gradient(top, #258BD9, #CAD1DD);
+   background-image: -moz-linear-gradient(top, #258BD9, #CAD1DD);
+   background-image: -ms-linear-gradient(top, #258BD9, #CAD1DD);
+   background-image: -o-linear-gradient(top, #258BD9, #CAD1DD);
+   background-image: -webkit-gradient(to bottom, #258BD9, #CAD1DD);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 12px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_OWB:hover {
+   border: solid #337FED 1px;
+   background: #53739F;
+   color: #FFFFFF;
+   background-image: -webkit-linear-gradient(top, #53739F, #3F597E);
+   background-image: -moz-linear-gradient(top, #53739F, #3F597E);
+   background-image: -ms-linear-gradient(top, #53739F, #3F597E);
+   background-image: -o-linear-gradient(top, #53739F, #3F597E);
+   background-image: -webkit-gradient(to bottom, #53739F, #3F597E);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.copyright {
+  color: #394867;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/cursors/cur-5/cur438.cur), auto !important;} /* End https://www.cursors-4u.com */
