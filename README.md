@@ -11,6 +11,6 @@ Team Members: Santiago Pedemonte, Sean Simmons, Rawnak Mahjabib, Samuel Akinnubi
 
 - We have created tools to allow Users to create their own custom cryptocurrency portfolio. 
 
-- Our models help Users run Monte Carlo simulations on their custom portfolio, calculate measures such as their cumulative returns over time, and calculate the Sortino Ratio of their custom portfolio. 
+- Our models help Users run Monte Carlo simulations on their custom portfolio, calculate measures such as their cumulative returns over time, and Sortino Ratio of their custom portfolio. 
 
 - The dashboards we have built are all publicly displayed and available for use on our Web page published at:  <a href="https://rawnakmahjabib.github.io/CryptoMarket-Scout/">CryptoMarket Scout</a>
