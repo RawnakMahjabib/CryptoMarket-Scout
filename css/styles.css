@@ -61,6 +61,13 @@ a {
 
 }
 
+.ink {
+  -webkit-text-decoration: darkturquoise solid underline;
+  text-decoration: darkturquoise solid underline;
+  -webkit-text-decoration-skip: ink;
+  text-decoration-skip: ink;
+}
+
 .middle-container {
 background-color: #d6e0f0;
 padding-top: 50px;
